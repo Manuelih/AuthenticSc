@@ -3,6 +3,7 @@
   🔒 Advanced Staff Chat plugin for Velocity Proxy  
   <br>
   <b>Fully customizable · Lightweight · Open Source</b>
+  <br>
   <b>Developed with 🩷 by Manuelih</b>
 </p>
 
