@@ -3,6 +3,7 @@
   🔒 Advanced Staff Chat plugin for Velocity Proxy  
   <br>
   <b>Fully customizable · Lightweight · Open Source</b>
+  <b>Developed with 🩷 by Manuelih</b>
 </p>
 
 <p align="center">
@@ -41,9 +42,9 @@
 ## 🧪 Comandi
 
 | Comando              | Descrizione                             |
-|----------------------|------------------------------------------|
-| `/staffchat <msg>`   | Invia un messaggio nello staff chat      |
-| `/sc <msg>`          | Alias più rapido di `/staffchat`         |
+|----------------------|---------------------------------------|
+| `/staffchat <msg>`   | Invia un messaggio nello staff chat   |
+| `/sc <msg>`          | Alias più rapido di `/staffchat`      |
 
 ---
 
