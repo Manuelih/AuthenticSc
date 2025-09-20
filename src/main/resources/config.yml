@@ -1,0 +1,13 @@
+# Configurazione di AuthenticSc by Manuelih
+
+# Permesso richiesto per vedere i messaggi dello staffchat
+permission: "authenticsc.use"
+
+# Formato del messaggio
+# Placeholder disponibili: {server}, {player}, {message}
+format: "&7[&bStaffChat&7] &8[{server}] &e{player} &f: {message}"
+
+# Messaggi di sistema
+messages:
+  only-players: "&cQuesto comando può essere usato solo da un giocatore."
+  usage: "&cUtilizzo: /staffchat <messaggio> oppure /sc <messaggio>"
